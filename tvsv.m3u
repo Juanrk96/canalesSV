@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a6FFLN5.png" group-title="CINE",TCS HD El Salvador
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Canal_33_El_Salvador_2019.png/250px-Canal_33_El_Salvador_2019.png" group-title="CINE",CANAL 33-7 Salvador
 https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="CINE",CANAL 10 El Salvador
@@ -7,10 +11,6 @@ http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMjYxNTE5LCJzZXNzaW9uIjoiMTkwLjg2LjEwOS4xNzAiLCJ3aGl0ZWxpc3QiOlsiMTkwLjg2LjEwOS4xNzAiXX0sInNpZ25hdHVyZSI6ImYwMWE2YjRmNjc3ZDE1NzQwZTIzY2Q5MmQyM2U5N2E1MDM0YmZlYjUifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a6FFLN5.png" group-title="CINE",CANAL 17 El Salvador
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png" group-title="CINE",CANAL 19 El Salvador
-https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8?hdnts=exp=1620182895~acl=/*~hmac=bec43c9c9b926b072668c8287ab37dd166a0a6958123f301742537498995731c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Canal-21-El-Salvador-en-vivo-Online.png/1200px-Canal-21-El-Salvador-en-vivo-Online.png" group-title="CINE",CANAL 21 El Salvador
-https://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8?hdnts=exp=1620183080~acl=/*~hmac=0933123e4dee04175cca7fcc45d7acd3981d4b7441c050ad13b769067257127b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="CINE",CANAL 23 El Salvador
 https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CuMEP9kEvuFTBmQj_rw6qQRhISkyAEJ6_HL10-L7ktlDm1KL-ru1qOYvu2Ulqep8tpcEvMBgi8lacPaJi2qzhYA9HC1sATyRoBWY09XDE-oe_AOU2flHbYLS5Y_OtfAA2z2H4Pt3ildGEuhRmJ0Q97pEE-6MEbduCcCyvm52KW1Tr8IMfkuBP3kGdLszdCV4D6iykhbcQx1VBRxJ1PjVEp7Z7VfQ4QIy2B9jEWKItSMjtsU4VzQYC3lDWKrlyiqhE4foINn6zD1jTS0mYSFLzQvnOzRfJfU3Hs4CGl-3-vwaAE8OSN2y8AUSbK6q_7mg4h3Q5oyrRlfNjeI7YaHyEoGsXBFcvFbpnxw3dd5F8IDhQlfC0MKxbhWaoWEpqFRCCY-dkX3b3O2dljjhrWhTOHE7C7m31yOmy7obzbcBlS-ORKNKkpYIYXdd3EI6G9Ek16MBEVq8WIZohLCFIw4hpqrA3UD6DGlxWQUqBpxbCEk0uehslEBWr0iNNPcBaSbTLOmPEi0t_JmM8jjVf-3Q8ixUlQXiabpOBH14zgRM9B8KD5nNgkEbcKgWCWBMyEzs5J7Nso0HEeCHVpJpQCKMYkoj-ije9kAGJlEXsat4oMTDPocwxxFsB7V5C3Qee38s8bkGtTJsMRkZy_buUdUqVokQxUdH7uuucRAZNAEpuf23CI3BDsAMRMcIfJ5Mp7NPdI3fkX8rrbL-fO1HX0OWCxLqUumijAX0FHO7HY7064dzdcdwr19G1eI0TKdy_4CkDCeL47OsGd4ddOdiGeZSujeq2ao3NVSVkeQAr-JxOSnK4bmTqLMSENpc5FmysTQ8gc5kkXDoELUaDEaXr9ouamITLnE31w.m3u8
 #EXTINF:-1 tvg-logo="https://www.asamblea.gob.sv/themes/custom/asam/logo_pfo.svg" group-title="CINE",CANAL 25 ASAMBLEA LEGISLATIVA El Salvador
