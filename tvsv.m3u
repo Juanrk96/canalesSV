@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Canal_33_El_Salvador_2019.png/250px-Canal_33_El_Salvador_2019.png" group-title="CINE",CANAL 33-7 Salvador
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="CINE",CANAL 10 El Salvador
+http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="CINE",CANAL 12 El Salvador
+https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMjYxNTE5LCJzZXNzaW9uIjoiMTkwLjg2LjEwOS4xNzAiLCJ3aGl0ZWxpc3QiOlsiMTkwLjg2LjEwOS4xNzAiXX0sInNpZ25hdHVyZSI6ImYwMWE2YjRmNjc3ZDE1NzQwZTIzY2Q5MmQyM2U5N2E1MDM0YmZlYjUifQ%3D%3D
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a6FFLN5.png" group-title="CINE",CANAL 17 El Salvador
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png" group-title="CINE",CANAL 19 El Salvador
+https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8?hdnts=exp=1620182895~acl=/*~hmac=bec43c9c9b926b072668c8287ab37dd166a0a6958123f301742537498995731c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Canal-21-El-Salvador-en-vivo-Online.png/1200px-Canal-21-El-Salvador-en-vivo-Online.png" group-title="CINE",CANAL 21 El Salvador
+https://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8?hdnts=exp=1620183080~acl=/*~hmac=0933123e4dee04175cca7fcc45d7acd3981d4b7441c050ad13b769067257127b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="CINE",CANAL 23 El Salvador
+https://usher.ttvnw.net/api/channel/hls/canaltvx.m3u8?allow_source=true&fast_bread=true&p=6171620&play_session_id=51662807404033fe46f3b9b4b275e9ec&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=46594f8c90216e0cff74b851455c3a56f0a420a1&supported_codecs=vp09%2Cavc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canaltvx%22%2C%22channel_id%22%3A555123885%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22522579ea43733e97%22%2C%22expires%22%3A1620177385%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.86.109.170%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+#EXTINF:-1 tvg-logo="https://www.asamblea.gob.sv/themes/custom/asam/logo_pfo.svg" group-title="CINE",CANAL 25 ASAMBLEA LEGISLATIVA El Salvador
+https://asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/9iJCvSBHd7lTshL-lvZOBJAu3VKvq5nh8ra5W2BsrDfZk0SeyHs1ggiS_TC-yJvjHYn347nctqn7feXLDandMbFHOBcoPxn0hES2QNvO8-YB3P0peJBrFJLWHL3oyrJOfMe1usmw2TJ_oaYz" group-title="CINE",CANAL ORBITA TV El Salvador
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png" group-title="CINE",CANAL ELIM TV El Salvador
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_WHITE.png" group-title="CINE",CANAL 1 El Salvador
+http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Televisi%C3%B3n-Cat%C3%B3lica-de-la-Arquidi%C3%B3cesis-de-San-Salvador-en-vivo-Online-218x150.png" group-title="CINE",CANAL 39 TvCA Salvador
+https://tvserver.ml:1443/tvca/live/playlist.m3u8
