@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a6FFLN5.png" group-title="CINE",#TCS HD El Salvador
-#https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=1
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Canal_33_El_Salvador_2019.png/250px-Canal_33_El_Salvador_2019.png" group-title="CINE",CANAL 33-7 Salvador
 https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="CINE",CANAL 10 El Salvador
